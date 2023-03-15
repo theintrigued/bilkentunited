@@ -1,2 +1,1 @@
-# bilkentunited
-Site for Bilkent United
+# First Commit
