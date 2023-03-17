@@ -1,0 +1,110 @@
+@font-face {
+  font-family: 'xsports-icons';
+  src:
+    url('fonts/xsports-icons.ttf?n8ingk') format('truetype'),
+    url('fonts/xsports-icons.woff?n8ingk') format('woff'),
+    url('fonts/xsports-icons.svg?n8ingk#xsports-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="awb-xsports-"], [class*=" awb-xsports-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'xsports-icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.awb-xsports-jet-skiing:before {
+  content: "\e915";
+}
+.awb-xsports-water-surfing:before {
+  content: "\e916";
+}
+.awb-xsports-surfing:before {
+  content: "\e917";
+}
+.awb-xsports-snow-sports:before {
+  content: "\e918";
+}
+.awb-xsports-sports-helmet:before {
+  content: "\e919";
+}
+.awb-xsports-sports-shoes:before {
+  content: "\e91a";
+}
+.awb-xsports-information:before {
+  content: "\e91b";
+}
+.awb-xsports-extreme:before {
+  content: "\e900";
+}
+.awb-xsports-gloves:before {
+  content: "\e901";
+}
+.awb-xsports-goal:before {
+  content: "\e902";
+}
+.awb-xsports-helmet:before {
+  content: "\e903";
+}
+.awb-xsports-momentum:before {
+  content: "\e904";
+}
+.awb-xsports-skiing:before {
+  content: "\e905";
+}
+.awb-xsports-ad-solid:before {
+  content: "\e906";
+}
+.awb-xsports-angle-right-solid:before {
+  content: "\e907";
+}
+.awb-xsports-bars-solid:before {
+  content: "\e908";
+}
+.awb-xsports-check-circle-regular:before {
+  content: "\e909";
+}
+.awb-xsports-clock-solid:before {
+  content: "\e90a";
+}
+.awb-xsports-edit-solid:before {
+  content: "\e90b";
+}
+.awb-xsports-envelope-open-solid:before {
+  content: "\e90c";
+}
+.awb-xsports-map-marker-alt-solid:before {
+  content: "\e90d";
+}
+.awb-xsports-phone-alt-solid:before {
+  content: "\e90e";
+}
+.awb-xsports-play-solid:before {
+  content: "\e90f";
+}
+.awb-xsports-star-regular:before {
+  content: "\e910";
+}
+.awb-xsports-star-solid:before {
+  content: "\e911";
+}
+.awb-xsports-sticky-note-solid:before {
+  content: "\e912";
+}
+.awb-xsports-times-solid:before {
+  content: "\e913";
+}
+.awb-xsports-user-circle-solid:before {
+  content: "\e914";
+}
